@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/parties_fragment">
+
+    <fragment
+        android:id="@+id/member_detail_fragment"
+        android:name="com.example.parliamentapp.membersDetail.MemberDetailFragment"
+        android:label="Member"
+        tools:layout="@layout/fragment_member_detail">
+        <argument
+            android:name="hetekaId"
+            app:argType="integer" />
+    </fragment>
+    <fragment
+        android:id="@+id/members_fragment"
+        android:name="com.example.parliamentapp.partiesDetail.MembersFragment"
+        android:label="Party Members"
+        tools:layout="@layout/fragment_members">
+        <argument
+            android:name="party"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_membersFragment_to_memberDetailFragment"
+            app:destination="@id/member_detail_fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/parties_fragment"
+        android:name="com.example.parliamentapp.parties.PartiesFragment"
+        android:label="Parliament"
+        tools:layout="@layout/fragment_parties">
+        <action
+            android:id="@+id/action_partiesFragment_to_membersFragment"
+            app:destination="@id/members_fragment" />
+    </fragment>
+
+</navigation>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Parliament</string>
+    <string name="random_mp">random mp</string>
+    <string name="name">name</string>
+    <string name="party">party</string>
+    <string name="parliament_member">parliament member</string>
+    <string name="hetekaid">hetekaId</string>
+    <string name="seat">Seat</string>
+    <string name="seatNumber">seat</string>
+    <string name="ministerOrNot">ministerOrNot</string>
+    <string name="parties">Parties</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item">Item</string>
+    <string name="members">Members</string>
+    <string name="member">Member</string>
+    <string name="party_logo">Party logo</string>
+</resources>
