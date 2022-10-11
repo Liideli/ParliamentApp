@@ -13,6 +13,7 @@ import com.example.parliamentapp.network.Party
 /**
  * Author: Roope Laine
  * Student ID: 2114735
+ * Date: 11.10.2022
  *
  * Adapter for the RecyclerView list of parties
  */

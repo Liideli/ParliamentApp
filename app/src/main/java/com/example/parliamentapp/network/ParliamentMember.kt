@@ -5,6 +5,7 @@ import androidx.room.*
 /**
  * Author: Roope Laine
  * Student ID: 2114735
+ * Date: 11.10.2022
  *
  * ParliamentMember data transfer objects in this file. These are responsible for parsing responses from the server.
  */

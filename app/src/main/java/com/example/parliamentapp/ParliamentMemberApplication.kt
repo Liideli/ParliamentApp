@@ -11,6 +11,7 @@ import java.util.concurrent.TimeUnit
 /**
  * Author: Roope Laine
  * Student ID: 2114735
+ * Date: 11.10.2022
  *
  * Override onCreate call to call custom method that setups worker
  */

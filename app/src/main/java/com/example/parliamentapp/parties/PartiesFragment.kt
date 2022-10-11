@@ -12,6 +12,7 @@ import com.example.parliamentapp.network.MemberDatabase
 /**
  * Author: Roope Laine
  * Student ID: 2114735
+ * Date: 11.10.2022
  *
  * PartiesFragment inflates the layout, creates partiesViewModel and sets partiesAdapter
  */

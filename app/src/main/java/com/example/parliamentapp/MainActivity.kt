@@ -9,6 +9,7 @@ import androidx.navigation.ui.setupActionBarWithNavController
 /**
  * Author: Roope Laine
  * Student ID: 2114735
+ * Date: 11.10.2022
  *
  * Setups the navigation and enables navigation back button
  */

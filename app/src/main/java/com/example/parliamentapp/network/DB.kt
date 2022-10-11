@@ -8,6 +8,7 @@ import androidx.room.RoomDatabase
 /**
  * Author: Roope Laine
  * Student ID: 2114735
+ * Date: 11.10.2022
  *
  * Defines a database and specifies data tables that will be used.
  * Version is incremented as new tables/columns are added/removed/changed.

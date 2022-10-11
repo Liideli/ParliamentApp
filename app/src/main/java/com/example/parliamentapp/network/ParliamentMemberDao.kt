@@ -9,6 +9,7 @@ import androidx.room.Query
 /**
  * Author: Roope Laine
  * Student ID: 2114735
+ * Date: 11.10.2022
  *
  * Data access object for the ParliamentMember and Party data transfer objects
  */

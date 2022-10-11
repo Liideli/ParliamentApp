@@ -14,6 +14,7 @@ import com.example.parliamentapp.network.MemberDatabase
 /**
  * Author: Roope Laine
  * Student ID: 2114735
+ * Date: 11.10.2022
  *
  * MemberDetailFragment inflates the layout, creates memberDetailViewModel
  */

@@ -9,6 +9,7 @@ import com.example.parliamentapp.repository.MembersRepository
 /**
  * Author: Roope Laine
  * Student ID: 2114735
+ * Date: 11.10.2022
  *
  * This file includes The MemberDetailViewModel and its ViewModelFactory
  */

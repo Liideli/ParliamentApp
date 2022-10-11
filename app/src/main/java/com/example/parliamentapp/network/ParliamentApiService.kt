@@ -9,6 +9,7 @@ import retrofit2.http.GET
 /**
  * Author: Roope Laine
  * Student ID: 2114735
+ * Date: 11.10.2022
  *
  * The setup of ParliamentApiService for Api data fetching
  * Converts JSON data from the URL into a list
